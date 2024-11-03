@@ -1,0 +1,2 @@
+Our code was written based on the view of an orthographic camera set with a 16:9 aspect ration in the game view.
+(Because of this, some of values for the bounds of the enemy and player objects were slightly smaller than in the example code).
